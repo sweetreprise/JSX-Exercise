@@ -8,7 +8,7 @@ const App = () => {
             />
 
             <Person 
-            name="Cris" 
+            name="Crisdfdsfsdf" 
             age={27} 
             hobbies={["Play games", "Eat a pizza", "Drive truck"]}
             />
